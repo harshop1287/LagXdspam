@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SpamX/StarX.png" alt="StarXSpam Logo">
+  <img src="LAGX/StarX.png" alt="LAGXSpam Logo">
 </p>
 <h1 align="center">
   <b>• $ᴛᴀʀXsᴘᴀᴍ •</b>
@@ -7,7 +7,7 @@
 
 ----
 
-<h4> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </h4>
+<h4> lagX Is A Pyrogram Based Spam Bots For Telegram With Many Features </h4>
 <br>
 <h3 align="center"> Features °</h3>
 
@@ -29,7 +29,7 @@
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/P4QVGrBFpHI)**</i>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/its-star-boi/SpamX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/harshop1287/LagXdspam)
 
 <h4> Local Hosting </h4>
 
